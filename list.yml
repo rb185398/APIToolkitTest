@@ -11,7 +11,7 @@ lists:
       logAll: true
   - action: copy
     parameters:
-      set.ext.response.body.id: 1234
+      set.ext.response.body.id: 1111
       copyfield.ext.request.body.type: ext.response.body.type
       copyfield.ext.request.body.label: ext.response.body.label
       set.ext.response.body.balance: 0
